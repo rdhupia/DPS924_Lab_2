@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DPS924 Lab 2</string>
+
+    <string name="hello_me">Hello Ravideep!</string>
+    <string name="action_settings">Settings</string>
+    <color name="newColor">#FF9933</color>
+</resources>
